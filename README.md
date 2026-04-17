@@ -46,6 +46,9 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [x402-dotnet (Community)](https://github.com/michielpost/x402-dotnet)
 - [MCPay (Build and Monetize MCP servers. SDK, Infrastructure and Examples)](https://github.com/microchipgnu/mcpay)
 - [x402-mcp package (Vercel)](https://github.com/ethanniser/x402-mcp)
+- [x402-python (Community)](https://github.com/cryptomotifs/x402-python) - Python client for x402 v2 with Decimal-precise nanopayment conversion and EIP-712 signing.
+- [cipher-x402-client (Community)](https://github.com/cryptomotifs/cipher-x402-client) - Tiny TypeScript client for x402 v2, zero-config USDC-on-Base.
+- [cipher-x402-mcp (Community)](https://github.com/cryptomotifs/cipher-x402-mcp) - MCP server exposing 8 CIPHER x402-gated crypto-intel tools to Claude/Cursor/VS Code.
 
 
 ### Standards and EIPs
@@ -75,6 +78,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
+- [CIPHER x402 (10 paid crypto-intel endpoints)](https://cipher-x402.onrender.com) - Solana MEV deep-dive (4 chapters), wallet/token scanner, HaveIBeenPwned breach lookup, Jito tip percentile math, GitHub repo-health audit, FRED macro series, Drift exposure risk. USDC on Base.
 
 
 ### Security & Ops
