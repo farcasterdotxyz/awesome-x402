@@ -32,6 +32,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [PayAI Facilitator & Supported Networks](https://docs.payai.network/x402/quickstart#facilitator)
 - [thirdweb Facilitator & Supported Networks](https://portal.thirdweb.com/payments/x402/facilitator)
 - [Corbits Faremeter Facilitators & Supported Networks](https://docs.corbits.dev/about-corbits/networks)
+- [Voidly Pay Facilitator (Base)](https://api.voidly.ai/v1/pay/x402) - x402 facilitator + agent payment rail with escrow, streams, subscriptions, batch payouts, and a marketplace of 17 paid endpoints. USDC settlement on Base via Sourcify-verified vault. [GitHub](https://github.com/voidly-ai/voidly-pay)
 
 
 ### Open Source & SDKs
