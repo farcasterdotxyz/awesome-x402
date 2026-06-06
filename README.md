@@ -75,7 +75,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
-
+- [x402 Research API](https://github.com/BumStill/x402-research-api) - Self-hosted x402 payment API with research ($0.01) and audit ($0.005) endpoints. USDC payments via Coinbase Facilitator on Base.
 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
