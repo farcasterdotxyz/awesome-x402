@@ -80,6 +80,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
 - [x402 FAQ – Security](https://docs.cdp.coinbase.com/x402/support/faq#security)
+- [400860 Radar x402 API](https://api.400860.xyz/) - x402-native API catalog for agent spend policy, checkout readiness repair, market intel, and paid MCP/API launch evidence; includes OpenAPI, llms.txt, apis.json, agent-card, and `.well-known/x402` discovery assets.
 
 ### Benchmarks & Analysis
 - [Dev.to – x402 vs Traditional Payments (Micropayments)](https://dev.to/pathak_prakarsh/x402-finally-payments-built-for-the-internet-not-bolted-onto-it-1058)
