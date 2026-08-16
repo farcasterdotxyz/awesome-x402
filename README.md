@@ -75,7 +75,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Pinata jetson-x402 (Code)](https://github.com/PinataCloud/jetson-x402)
 - [x402 Example Gallery (GitHub)](https://github.com/coinbase/x402/tree/main/examples)
 - [x402 Analytics Examples](https://github.com/RemsLabs/x402-analytics-examples) - Practical examples demonstrating x402-analytics usage with buyer and seller implementations.
-
+- [Colombia TRM](https://x402.lagaceta.net/trm) - Official Superintendencia Financiera daily USD/COP (datos.gov.co mcec-87by), $0.005 USDC on Base.
 
 ### Security & Ops
 - [x402 Whitepaper – Security Section](https://www.x402.org/x402-whitepaper.pdf)
