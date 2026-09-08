@@ -67,6 +67,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 
 ### Example Apps
+- [Veriton HTML→JSON](https://seed-trek-trainers-ross.trycloudflare.com) - Metered HTML→structured JSON API for agents; free demo `POST /v1/demo/html-to-json`, paid `POST /v1/html-to-json` at $0.02 USDC on Base via HTTP 402 + prepaid credits. ([Docs](https://veriton-dev.github.io/veriton-micro-dev/api/) | [OpenAPI](https://seed-trek-trainers-ross.trycloudflare.com/v1/openapi.json) | [Discovery](https://seed-trek-trainers-ross.trycloudflare.com/.well-known/x402))
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
