@@ -102,6 +102,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Reddit – r/x402](https://www.reddit.com/r/x402/)
 - [Discord – Coinbase Developer Platform](https://discord.com/invite/cdp)
 - [x402 Discord Community](https://discord.gg/x402)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Contributing
 - Add high-signal links: specifications, reference implementations, deep-dive posts, audits, and example apps.
