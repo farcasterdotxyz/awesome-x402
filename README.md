@@ -67,6 +67,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Vercel x402 MCP SDK Announcement](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 
 ### Example Apps
+- [x402-ping](https://x402-ping.palmbeachpete.workers.dev) - Live Base USDC x402 smoke target for agent payment/health checks. Free tip/unlock discovery on `/`; paid `GET /premium` returns HTTP 402 exact @ **0.05 USDC** on Base (`eip155:8453`) → treasury `0xbAd41cF0f0d5442f9A53630F8081BFd257DA019b`. ([Discovery](https://x402-ping.palmbeachpete.workers.dev/.well-known/x402) | [Premium](https://x402-ping.palmbeachpete.workers.dev/premium) | [Unlock](https://shieldz.cash/unlock/NDS0MgohhA3PmPaBvmD0) | [Tip](https://shieldz.cash/tip/tip-d2599a4d16a6f4b0) | [Repo](https://github.com/filip-study/x402-ping))
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
