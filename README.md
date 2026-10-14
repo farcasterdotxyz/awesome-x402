@@ -69,6 +69,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 ### Example Apps
 - [QuickNode Video Paywall Demo](https://www.quicknode.com/sample-app-library/coinbase-x402)
 - [Hyperbolic x402 Chat API (LLM Pay-per-Request)](https://github.com/HyperbolicLabs/hyperbolic-x402)
+- [Clarity](https://flipperspectives-crypto.github.io/clarity-docs/) — Base mainnet x402 paid inference (chat $0.001 USDC; research report $2) via local Ollama; free discovery at [/.well-known/x402](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402).
 - [Pinata – Pay to Pin on IPFS with x402](https://pinata.cloud/blog/pay-to-pin-on-ipfs-with-x402/)
 - [Pinata 402-server (Code)](https://github.com/PinataCloud/402-server)
 - [Pinata – Monetize AI Hardware (Jetson) with x402](https://pinata.cloud/blog/using-x402-to-monetize-ai-hardware/)
